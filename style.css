@@ -1,0 +1,86 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(	0,0,0,0.5);
+    border-radius: 20px;
+    margin: 2% 15% 20%;
+}
+
+.logo {
+    text-align: center;
+}
+
+img {
+    height: 12.5%;
+    margin-top: 90px;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(0,255,0);
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.row {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 15px;
+}
+
+.bar {
+    height: 40px;
+    background-color: rgba(0,255,0);
+    
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p, span {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 17px;
+    line-height: 19px;
+    margin: 5px;
+}
+ span {
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+.charge {
+    height: 25px;
+    border-radius: 5px;
+}
+
+.Gino .charge {
+    background-color: rgba(245,180,83,255);
+    width: 35%;
+}
+
+.Mike .charge {
+    background-color: rgba(30,195,30,255);
+    width: 60%;
+}
+
+.Fede .charge {
+    background-color: rgba(190,65,65,255);
+    width: 17%;
+}
+
+div .Fede {
+    margin-bottom: 80px;
+}
